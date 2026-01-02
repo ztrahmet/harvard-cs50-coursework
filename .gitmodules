@@ -1,0 +1,6 @@
+[submodule "harvard-cs50x"]
+	path = harvard-cs50x
+	url = https://github.com/ztrahmet/harvard-cs50x.git
+[submodule "harvard-cs50ai"]
+	path = harvard-cs50ai
+	url = https://github.com/ztrahmet/harvard-cs50ai.git
